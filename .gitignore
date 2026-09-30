@@ -1,0 +1,11 @@
+.cache/
+.site-next/
+.site-build-*/
+.backups/
+__pycache__/
+.DS_Store
+site/
+manuals/*
+!manuals/.gitkeep
+.env
+.env.*
